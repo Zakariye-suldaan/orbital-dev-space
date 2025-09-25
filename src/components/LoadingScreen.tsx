@@ -76,7 +76,7 @@ const LoadingScreen = ({ onLoadingComplete }: LoadingScreenProps) => {
           ref={textRef}
           className="text-6xl md:text-8xl font-bold text-gradient-glow tracking-tight"
         >
-          MILAD
+          ZAKARIA SULTAN
         </div>
         
         {/* Progress Bar Container */}
