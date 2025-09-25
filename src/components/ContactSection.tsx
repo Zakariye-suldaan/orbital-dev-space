@@ -172,8 +172,8 @@ const ContactSection = () => {
               <div className="space-y-4 text-muted-foreground">
                 <div>
                   <h4 className="font-medium text-foreground mb-1">Email</h4>
-                  <a href="mailto:hello@miladicode.com" className="text-secondary hover:text-primary transition-colors">
-                    hello@miladicode.com
+                  <a href="mailto:hello@zakisultan.com" className="text-secondary hover:text-primary transition-colors">
+                    hello@zakisultan.com
                   </a>
                 </div>
                 <div>

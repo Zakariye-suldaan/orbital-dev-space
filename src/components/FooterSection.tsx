@@ -95,7 +95,7 @@ const FooterSection = () => {
               className="text-3xl font-bold text-gradient-primary mb-4 cursor-pointer hover-glow transition-all duration-300"
               onClick={scrollToTop}
             >
-              MiladiCode
+              Zaki Sultan
             </div>
             <p className="text-muted-foreground mb-6 max-w-md leading-relaxed">
               Crafting digital experiences that inspire and engage through innovative design 
@@ -164,7 +164,7 @@ const FooterSection = () => {
               <span>© 2024 Made with</span>
               <Heart size={16} className="text-red-400 animate-pulse" />
               <span>by</span>
-              <span className="text-primary font-medium">MiladiCode</span>
+              <span className="text-primary font-medium">Zaki Sultan</span>
             </div>
 
             {/* Tech Stack Badge */}

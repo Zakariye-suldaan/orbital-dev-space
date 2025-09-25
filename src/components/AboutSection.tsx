@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import profileImage from "../assets/milad-profile.jpg";
+import profileImage from "../assets/zakaria-profile.png";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -102,7 +102,7 @@ const AboutSection = () => {
               <div className="relative w-80 h-80 rounded-full overflow-hidden glass border-2 border-primary/30 hover:border-primary/60 transition-all duration-300">
                 <img 
                   src={profileImage}
-                  alt="Milad Abdi - Creative Web Developer"
+                  alt="Zakaria Sultan - Creative Web Developer"
                   className="w-full h-full object-cover"
                 />
               </div>
