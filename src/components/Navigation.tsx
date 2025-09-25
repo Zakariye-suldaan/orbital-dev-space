@@ -58,7 +58,7 @@ const Navigation = () => {
             className="text-2xl font-bold text-gradient-primary cursor-pointer hover-glow"
             onClick={() => scrollToSection("hero")}
           >
-            MC
+            ZS
           </div>
 
           {/* Desktop Navigation */}
@@ -96,7 +96,7 @@ const Navigation = () => {
           <div className="absolute inset-0 bg-background/95 backdrop-blur-xl" onClick={toggleMenu} />
           <div className="mobile-menu absolute right-0 top-0 h-full w-80 glass-strong p-8">
             <div className="flex justify-between items-center mb-12">
-              <div className="text-2xl font-bold text-gradient-primary">MC</div>
+              <div className="text-2xl font-bold text-gradient-primary">ZS</div>
               <button onClick={toggleMenu} className="p-2 glass rounded-lg">
                 <X size={24} />
               </button>

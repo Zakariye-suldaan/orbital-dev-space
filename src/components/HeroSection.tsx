@@ -76,7 +76,7 @@ const HeroSection = () => {
       {/* Background Spline 3D Model */}
       <div className="absolute inset-0 z-0">
         <iframe 
-          src='https://my.spline.design/rollingrectangles-uyiZwIVWFe8ZN0mGcyaWLBI4/' 
+          src='https://my.spline.design/claritystream-mS4RKGbdcrU0KOOSn2ONsBit/' 
           frameBorder='0' 
           width='100%' 
           height='100%'
@@ -98,7 +98,7 @@ const HeroSection = () => {
           {/* Main Headline */}
           <h1 ref={headlineRef} className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight">
             <span className="text-foreground">Hi, I'm </span>
-            <span className="text-gradient-glow">Milad</span>
+            <span className="text-gradient-glow">Zakaria Sultan</span>
             <br />
             <span className="text-foreground/90">Web Developer</span>
           </h1>
